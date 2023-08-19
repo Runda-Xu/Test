@@ -1,5 +1,5 @@
 track  bigWig1
-bigDataUrl https://github.com/Runda-Xu/Test/blob/main/Cas9_HEK4_72h_293_2.fw.scaled.bw
+bigDataUrl https://raw.githubusercontent.com/Runda-Xu/Test/main/Cas9_HEK4_72h_293_2.fw.scaled.bw
 shortLabel bigWig test
 longLabel This bigWig file is an test
 type bigWig
